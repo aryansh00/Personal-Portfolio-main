@@ -8,7 +8,7 @@ export const config = {
           description:
             'Project Description: Developed a Full Stack Web Application using fronted languages like HTML & CSS, JavaScript, React Js and in backend it uses Python, Django, MySql ',
           animationDelay: '300',
-          buttonLink: 'https://codemmit.tech/',
+          buttonLink: 'https://github.com/aryansh00/ecomm.git',
           buttonText: 'CHECK OUT',
         },
         {
@@ -23,7 +23,7 @@ export const config = {
           heading: 'Personal Portfolio Website',
           description: 'Project Description: Made a personal portfolio website using HTML5 & CSS, JAVSCRIPT, REACT JS and Emails JS ',
           animationDelay: '700',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://subasharyanportfolio.netlify.app/ ',
           buttonText: 'CHECK OUT',
         },
         {
@@ -34,6 +34,14 @@ export const config = {
           buttonLink: 'https://github.com/aryansh00/JAVASCRIPT-PROJECTS.git',
           buttonText: 'CHECK OUT',
         },
+        {
+          heading: 'Django CRM',
+          description:
+            'Project Description: This is a Customer Relationship Management (CRM) application built with Django. It allows users to manage customer information, track interactions, and generate reports, streamlining customer relationships',
+          animationDelay: '1100',
+          buttonLink: 'https://github.com/aryansh00/Django--CRM-.git',
+          buttonText: 'CHECK OUT',
+        }
     
       ],
     },
